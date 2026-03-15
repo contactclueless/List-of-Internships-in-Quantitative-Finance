@@ -1,172 +1,119 @@
-You can find more internships at www.pagesxyz.com
+## AlphaGrep
+- [Quantitative Researcher Intern (Equity Strategy Factors)](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/7958037002)
+- [Quantitative Researcher Intern (Machine Learning)](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/7958042002)
+- [Quantitative Research Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8037942002)
 
-## Akuna Capital
-**Website**: [Akuna Capital](https://akunacapital.com/careers#careers)
-|SWE|[✅ C++](https://akunacapital.com/job-details?gh_jid=6996427)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Python](https://akunacapital.com/job-details?gh_jid=7055471)|
-|QR|[✅ ](https://akunacapital.com/job-details?gh_jid=7055793)|
-
-## Aquatic
-**Website**: [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)
-|-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002)|
-|QR|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002)|
-|BizOps (AI/LLM)|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002)|
-
-## Arrowstreet Capital
-**Website**: [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers)
-**Locations**: Boston
-|SWE|[✅ ](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2026_R1338)|
-|QR|[✅ ](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340)|
-
-## Belvedere Trading
-**Website**: [Belvedere Trading](http://www.belvederetrading.com/jobs/)
-**Locations**: Chicago
-|SWE|[✅ ](https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c)|
-|QT|[✅ ](https://jobs.lever.co/belvederetrading/ec52b73e-54b8-4f87-909d-a74cb288dc4d)|
-
-## Blackedge Capital
-**Website**: [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)
-**Locations**: Chicago
-|SWE|[✅ ](https://job-boards.greenhouse.io/blackedgecapital/jobs/4596128005)|
-|QT|[✅ ](https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005)|
-
-## Bridgewater
-**Website**: [Bridgewater](https://www.bridgewater.com/working-at-bridgewater/job-openings)
-**Locations**: Westport, CT
-|SWE|[✅ ](https://job-boards.greenhouse.io/bridgewater89/jobs/7950099002)|
-|QR|[✅ ](https://job-boards.greenhouse.io/bridgewater89/jobs/7726966002)|
-
-## Chicago Trading Company
-**Website**: [Chicago Trading Company](https://www.chicagotrading.com/search#search-results)
-|SWE|[✅ ](https://grnh.se/2f36ab9q5us)|
-|QT|[✅ ](https://grnh.se/28t263745us)|
-
-## Citadel / Citadel Securities
-**Website**: [Citadel / Citadel Securities](https://www.citadelsecurities.com/careers/students/internships/)
-|SWE|[✅ ](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/)|
-|QR|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/)|
-|QT|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-us/)|
-
-## Cubist
-**Website**: [Cubist](https://careers.point72.com/?experience=internships)
-|SWE|[✅ ](https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&location=New%20York&locale=English&retURL=/CSCareerSearch)|
-
-## DE Shaw
-**Website**: [DE Shaw](https://www.deshaw.com/careers/internships)
-|SWE|[✅ ](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521)|
-|QT|[✅ ](https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2026-5379)|
+## Da Vinci Derivatives
+- [Quant Trading Intern (July 2026)](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101)
 
 ## DRW
-**Website**: [DRW](https://drw.com/work-at-drw/category/campus)
-|SWE|[✅ ](https://www.drw.com/work-at-drw/listings/software-developer-intern-3157977)|
-|QR|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3151348)|
-|QT|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981)|
+- [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7492214)
+- [Trading Systems Engineer](https://job-boards.greenhouse.io/drweng/jobs/6776683)
+
+## DV Trading
+- [Futures & Options Trading Analyst Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4666999005)
+- [2026 Summer Internship - Trading (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4634788005)
 
 ## Five Rings
-**Website**: [Five Rings](https://fiverings.com/careers)
-|SWE|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008)|
-|QR|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008)|
-|QT|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008)|
+- [Summer Intern 2026 - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008)
+- [Winter Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5122638008)
 
 ## Flow Traders
-**Website**: [Flow Traders](https://www.flowtraders.com/careers)
-|QT|[✅ ](https://www.flowtraders.com/careers/job-description/7166435)|
+- [Flow Traders Ascent](https://job-boards.greenhouse.io/flowtraders/jobs/7605841)
+- [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/7100637)
 
-## Geneva Trading
-**Website**: [Geneva Trading](https://www.genevatrading.com/careers-open-positions/)
-|QT|[✅ ](https://job-boards.greenhouse.io/genevatrading/jobs/4767553007)|
+## Galaxy Digital Services
+- [Quantitative Trading Intern - 2026 Summer Internship, Hong Kong](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5711929004)
+- [2026 Sales and Trading Internships - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5693202004)
 
-## GSA Capital
-**Website**: [GSA Capital](https://www.gsacapital.com/?section=careers&gh_src=)
-|QR|[✅ ](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016006002)|
+## Gelber Group
+- [Algorithmic Trading Internship - Boston Summer 2026](https://job-boards.greenhouse.io/gelbergroup/jobs/4654948006)
 
-## Hudson River Trading
-**Website**: [Hudson River Trading](https://www.hudsonrivertrading.com/careers/)
-|SWE|[✅ ](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/)|
-|QR|[✅ Algo Dev](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/)|
-|QT|[✅ ](https://www.hudsonrivertrading.com/hrt-job/algorithm-trader-quantitative-trader-internship-summer-2026/)|
-|Sophomore|[✅ ](https://www.hudsonrivertrading.com/hrt-job/sophomore-internship-summer-2026/)|
+## Go Tropical
+- [Algorithmic Trader Intern](https://job-boards.greenhouse.io/gotropical/jobs/4749797007)
+- [Quantitative Trader Intern](https://job-boards.greenhouse.io/gotropical/jobs/4749805007)
 
-## IMC Trading
-**Website**: [IMC Trading](https://careers.imc.com/us/en/student-opportunities)
-|SWE|[✅ ](https://www.imc.com/us/careers/jobs/4580810101/)|
-|QR|[✅ ](https://www.imc.com/us/careers/jobs/4580808101/)|
-|QT|[✅ ](https://www.imc.com/us/careers/jobs/4580757101/)|
-|ML|[✅ ML Research](https://www.imc.com/us/careers/jobs/4608584101)|
+## IMC Financial Markets
+- [2026 Launchpad Quant Trading Program](https://job-boards.eu.greenhouse.io/imc/jobs/4781344101)
+- [Quantitative Research Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4723764101)
+- [Women in Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4697259101)
+- [Machine Learning Research Intern - Summer 2026](https://job-boards.eu.greenhouse.io/imc/jobs/4608584101)
+- [CHI - 2026 - Research Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4671336101)
+- [Launchpad - Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4697253101)
+- [Trader Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4582225101)
 
-## Jane Street
-**Website**: [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=new-york)
-|SWE|[✅ ](https://www.janestreet.com/join-jane-street/position/8040547002/)|
-|QR|[✅ ](https://www.janestreet.com/join-jane-street/position/7979031002/)|
-|QT|[✅ ](https://www.janestreet.com/join-jane-street/position/8047137002/)|
-|Hardware|[✅ FPGA](https://www.janestreet.com/join-jane-street/position/8062455002/)|
+## Jane Street Capital
+- [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8374335002)
+- [Tools and Compilers Research and Development](https://job-boards.greenhouse.io/janestreet/jobs/5869205002)
+- [Trading Desk Operations Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8075334002)
+- [Campus Recruiter, Machine Learning and Quantitative Research](https://job-boards.greenhouse.io/janestreet/jobs/8229056002)
+- [Quantitative Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8095356002)
+- [Trading Desk Operations Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8168747002)
+- [Quantitative Trader](https://job-boards.greenhouse.io/janestreet/jobs/8008382002)
+- [Quantitative Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8343131002)
+- [Trading Desk Operations Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8070509002)
+- [Tools & Compilers Research and Development](https://job-boards.greenhouse.io/janestreet/jobs/5866838002)
+- [Sales and Trading](https://job-boards.greenhouse.io/janestreet/jobs/8093915002)
+- [Quantitative Trader](https://job-boards.greenhouse.io/janestreet/jobs/7982986002)
+- [Quantitative Trader](https://job-boards.greenhouse.io/janestreet/jobs/8010144002)
+- [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8060848002)
+- [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8061093002)
+- [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8061523002)
+- [Quantitative Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8017833002)
 
 ## Jump Trading
-**Website**: [Jump Trading](https://www.jumptrading.com/careers/?titleSearch=campus+intern)
-|SWE|[✅ ](https://www.jumptrading.com/careers/7124769/)|
-|QR|[✅ ](https://www.jumptrading.com/careers/7026718/)|
-|QT|[✅ ](https://www.jumptrading.com/careers/6900970/)|
-|Hardware|[✅ FPGA](https://www.jumptrading.com/careers/7124905/)|
-|Data|[✅ ](https://www.jumptrading.com/careers/7125399/)|
+- [Campus Trading Team Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728)
+- [Campus Quantitative Researcher / Trader (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7567323)
+- [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7141601)
+- [Campus AI Researcher, PhD/Postdoc (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7141685)
+- [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318)
+- [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347)
+- [Campus AI Researcher, PhD/Postdoc (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7141699)
 
-## Marshall Wace
-**Website**: [Marshall Wace](https://www.mwam.com/join-us/internships/)
-|SWE|[✅ Tech](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002)|
+## Maven Securities
+- [Chicago Graduate Trader Programme 2026](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227500)
+- [Graduate Trader Programme Amsterdam 2026](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7050392)
+- [Trader Summer Internship Chicago 2026](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227501)
+- [Amsterdam Trader Summer Internship 2026](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381)
 
-## Millenium
-**Website**: [Millenium](https://www.mlp.com/job-listings/)
-|SWE|[✅ ](https://campusjobs.mlp.com/careers?pid=755944533187)|
-|QR|[✅ ](https://campusjobs.mlp.com/careers?pid=755944544682)|
+## Maverick Derivatives
+- [Graduate Trader Internship Summer 2026 - Amsterdam](https://maverickderivatives.com/careers.html?gh_jid=5658262004)
 
 ## Optiver
-**Website**: [Optiver](https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10)
-|SWE|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/7973726002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://optiver.com/working-at-optiver/career-opportunities/7973725002/)|
-|QR|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/8033071002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://optiver.com/working-at-optiver/career-opportunities/7967593002/)|
-|QT|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/7832160002/)|
-|Hardware|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/8033372002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://optiver.com/working-at-optiver/career-opportunities/8033390002/)|
+- [Quantitative Research Intern, PhD (Summer 2026)](https://optiver.com/working-at-optiver/career-opportunities/8055439002/?gh_jid=8055439002)
+- [Quantitative Researcher Internship - 2026-27](https://optiver.com/working-at-optiver/career-opportunities/7985965002/?gh_jid=7985965002)
+- [Quantitative Research Intern, PhD (Summer 2026)](https://optiver.com/working-at-optiver/career-opportunities/7923892002/?gh_jid=7923892002)
+- [Quantitative Trading Internship (Taiwan) - 2026](https://optiver.com/working-at-optiver/career-opportunities/8011956002/?gh_jid=8011956002)
+- [Quantitative Trading Internship - 2026-27](https://optiver.com/working-at-optiver/career-opportunities/7985961002/?gh_jid=7985961002)
+- [Expressions of Interest - Quantitative Research Internship, PhD (Summer 2027 - Shanghai)](https://optiver.com/working-at-optiver/career-opportunities/8214334002/?gh_jid=8214334002)
 
-## PDT Partners
-**Website**: [PDT Partners](https://pdtpartners.com/careers)
-|SWE|[✅ ](https://job-boards.greenhouse.io/pdtpartners/jobs/7073180)|
+## Qube Research And Technologies
+- [2026 Internship/Graduate - Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8021267002)
+- [2026 - Internship, Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002)
 
-## Radix Trading
-**Website**: [Radix Trading](https://radixtrading.co/)
-|SWE|[✅ ](https://job-boards.greenhouse.io/radixuniversity/jobs/7842108002)|
+## Schonfeld
+- [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553)
+- [2026 PhD Quant Research Summer Intern - Miami Area](https://job-boards.greenhouse.io/schonfeld/jobs/7243570)
 
-## SIG
-**Website**: [SIG](https://careers.sig.com/intern-openings)
-|SWE|[✅ SWE](https://careers.sig.com/job/9571/Software-Engineering-Internship-Summer-2026)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Quant Strategy Dev](https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026)|
-|QR|[✅ ](https://careers.sig.com/job/9306/Quantitative-Research-Internship-Master-s-Summer-2026)|
-|QT|[✅ ](https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026)|
+## Stevens Capital Management
+- [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895)
 
-## Squarepoint
-**Website**: [Squarepoint](https://www.squarepoint-capital.com/careers)
-|QR|[✅ ](https://www.squarepoint-capital.com/open-opportunities?id=243853)|
+## The Voleon Group
+- [Research Intern (London)](https://jobs.lever.co/voleon/1ff17a01-830c-4b77-ba52-bd14d29aa7df)
 
-## Tower Research
-**Website**: [Tower Research](https://www.tower-research.com/open-positions)
-|SWE|[✅ ](https://tower-research.com/open-positions/?gh_jid=6790327)|
-|QR|[✅ ](https://tower-research.com/open-positions/?gh_jid=6626259)|
-|QT|[✅ ](https://tower-research.com/open-positions/?gh_jid=7062358)|
+## Tower Research Capital
+- [Quantitative Trader Intern (PhD 2026)](https://www.tower-research.com/open-positions/?gh_jid=7062370)
+- [Quantitative Researcher Intern](https://www.tower-research.com/open-positions/?gh_jid=7238472)
 
-## TransMarketGroup
-**Website**: [TransMarketGroup](https://www.transmarketgroup.com/careers)
-|SWE|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007)|
-|QT|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007)|
+## Vatic Labs
+- [AI Research Internship (UAE)](https://job-boards.greenhouse.io/vaticlabs/jobs/7268318)
+- [AI Research Internship](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954)
 
-## Two Sigma
-**Website**: [Two Sigma](https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737,16718736%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&)
-|QR|[✅ ](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257)|
+## Vivcourt
+- [2026/2027 Quant Trader Internship](https://www.vivcourt.com/job-listings/?gh_jid=4653820006)
 
-## Virtu Financial
-**Website**: [Virtu Financial](https://www.virtu.com/careers/)
-**Locations**: NYC, Austin
-|SWE|[✅ ](https://job-boards.greenhouse.io/virtu/jobs/7848570002)|
-|QT|[✅ ](https://job-boards.greenhouse.io/virtu/jobs/7848562002)|
+## Wintermute
+- [DeFi Algorithmic Trading Internship](https://jobs.lever.co/wintermute-trading/26c45d48-38d0-43a0-a85f-8591753f392d)
 
-## Voloridge
-**Website**: [Voloridge](https://www.voloridge.com/join-our-team)
-|SWE|[✅ ](https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026)|
-|QR|[✅ ](https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026)|
-
-
+## XTX Markets
+- [AI Research Internship - XTY Labs](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003)
